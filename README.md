@@ -4,7 +4,9 @@
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/942780806882000936/1103684607414648984/gabriel-scott-foto-pra-por.png">
 </div>
   
-  ##
+Desenvolvedor Fullstack
+Analista e desenvolvedor de website
+Técnico de Informática - (Concluido: 2019)
  
 <div> 
   <a href="https://www.youtube.com/channel/randolcks" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
