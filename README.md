@@ -5,7 +5,9 @@
 </div>
   
 Desenvolvedor Fullstack
+
 Analista e desenvolvedor de website
+
 Técnico de Informática - (Concluido: 2019)
  
 <div> 
